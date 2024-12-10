@@ -5,8 +5,8 @@ This is the repository that contains our CVPR 2025 project, SIN.
 
 
 ```
-@article{park2021nerfies
-  title     = {Nerfies: Deformable Neural Radiance Fields},
+@article{
+  title     = {Strength in Numbers: Embarrassingly Simple Dataset Distillation via Zipping and Stitching Images Thumbnails},
 
 }
 ```
